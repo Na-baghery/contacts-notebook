@@ -1,2 +1,2 @@
 # contacts-notebook
- you can save your contacts in it
+ save your contacts
